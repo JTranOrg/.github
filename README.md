@@ -1,2 +1,0 @@
-# .github
-Documentation for JTranOrg
