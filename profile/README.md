@@ -30,13 +30,13 @@ For a complete JTran language reference go [here](https://github.com/JTranOrg/JT
 
 #### JTran Nuget package
 
-The JTran repository below contains a project for creating the main .Net NuGet package that you reference in your .Net projects in order to do Jtran transformations.
+The JTran repository below contains a project for creating the main .Net NuGet package that you reference in your .Net projects in order to do JTran transformations.
 
 #### JTran Console App
 
-The JTran repository below also contains a project for creating the a console app to do command line transformations. This console app is also available in NuGet as dotnet tool.
+The JTran repository below also contains a project for creating the console app to do command line transformations. This console app is also available in NuGet as a dotnet tool.
 
 #### JTran Azure DevOps Custom Task
 
-You can do JTran transformation in your Azure Devops pipelines using the [Azure DevOps Custom Task](https://marketplace.visualstudio.com/items?itemName=JTranOrg.JTranTransform). The JTran.CICD repository below contains the code for that custom task.
+You can do JTran transformations in your Azure Devops pipelines using the [Azure DevOps Custom Task](https://marketplace.visualstudio.com/items?itemName=JTranOrg.JTranTransform). The JTran.CICD repository below contains the code for that custom task.
 
